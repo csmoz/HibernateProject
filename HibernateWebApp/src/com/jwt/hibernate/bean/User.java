@@ -6,7 +6,7 @@ public class User {
 	private String password1;
 	private String email;
 	private String phone;
-	private String city;
+	private String city; //git denemesi
 
 	public int getId() {
 		return id;
